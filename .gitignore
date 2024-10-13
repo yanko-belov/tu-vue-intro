@@ -1,0 +1,14 @@
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+coverage
+.env
+dist
+.DS_Store
+.idea
+auto-imports.d.ts
+cypress/videos
+cypress/screenshots

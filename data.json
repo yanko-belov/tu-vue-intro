@@ -1,0 +1,469 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "BTC",
+      "symbol": "btc",
+      "quote": {
+        "USD": {
+          "price": 62775.836846927,
+          "volume_24h": 16403172443.768696,
+          "market_cap": 1240893482400.0693
+        }
+      },
+      "tags": [
+        "mineable",
+        "pow",
+        "sha-256",
+        "store-of-value",
+        "state-channel",
+        "coinbase-ventures-portfolio",
+        "three-arrows-capital-portfolio",
+        "polychain-capital-portfolio",
+        "binance-labs-portfolio",
+        "blockchain-capital-portfolio",
+        "boostvc-portfolio",
+        "cms-holdings-portfolio",
+        "dcg-portfolio",
+        "dragonfly-capital-portfolio",
+        "electric-capital-portfolio",
+        "fabric-ventures-portfolio",
+        "framework-ventures-portfolio",
+        "galaxy-digital-portfolio",
+        "huobi-capital-portfolio",
+        "alameda-research-portfolio",
+        "a16z-portfolio",
+        "1confirmation-portfolio",
+        "winklevoss-capital-portfolio",
+        "usv-portfolio",
+        "placeholder-ventures-portfolio",
+        "pantera-capital-portfolio",
+        "multicoin-capital-portfolio",
+        "paradigm-portfolio",
+        "bitcoin-ecosystem",
+        "ftx-bankruptcy-estate"
+      ],
+      "circulating_supply": 19767056
+    },
+    {
+      "id": 1027,
+      "name": "ETH",
+      "symbol": "eth",
+      "quote": {
+        "USD": {
+          "price": 2468.9541601649767,
+          "volume_24h": 9054221266.902395,
+          "market_cap": 297221146932.96796
+        }
+      },
+      "tags": [
+        "pos",
+        "smart-contracts",
+        "ethereum-ecosystem",
+        "coinbase-ventures-portfolio",
+        "three-arrows-capital-portfolio",
+        "polychain-capital-portfolio",
+        "binance-labs-portfolio",
+        "blockchain-capital-portfolio",
+        "boostvc-portfolio",
+        "cms-holdings-portfolio",
+        "dcg-portfolio",
+        "dragonfly-capital-portfolio",
+        "electric-capital-portfolio",
+        "fabric-ventures-portfolio",
+        "framework-ventures-portfolio",
+        "hashkey-capital-portfolio",
+        "kenetic-capital-portfolio",
+        "huobi-capital-portfolio",
+        "alameda-research-portfolio",
+        "a16z-portfolio",
+        "1confirmation-portfolio",
+        "winklevoss-capital-portfolio",
+        "usv-portfolio",
+        "placeholder-ventures-portfolio",
+        "pantera-capital-portfolio",
+        "multicoin-capital-portfolio",
+        "paradigm-portfolio",
+        "layer-1",
+        "ftx-bankruptcy-estate"
+      ],
+      "circulating_supply": 120383420.53021653
+    },
+    {
+      "id": 825,
+      "name": "USDT",
+      "symbol": "usdt",
+      "quote": {
+        "USD": {
+          "price": 0.9996927555735122,
+          "volume_24h": 34928543919.45155,
+          "market_cap": 119701315648.69443
+        }
+      },
+      "tags": [
+        "stablecoin",
+        "asset-backed-stablecoin",
+        "avalanche-ecosystem",
+        "solana-ecosystem",
+        "arbitrum-ecosytem",
+        "moonriver-ecosystem",
+        "injective-ecosystem",
+        "bnb-chain",
+        "usd-stablecoin",
+        "optimism-ecosystem",
+        "fiat-stablecoin"
+      ],
+      "circulating_supply": 119738104513.94455
+    },
+    {
+      "id": 1839,
+      "name": "BNB",
+      "symbol": "bnb",
+      "quote": {
+        "USD": {
+          "price": 574.134305515577,
+          "volume_24h": 1450947984.7646334,
+          "market_cap": 83784555434.30467
+        }
+      },
+      "tags": [
+        "marketplace",
+        "centralized-exchange",
+        "payments",
+        "smart-contracts",
+        "alameda-research-portfolio",
+        "multicoin-capital-portfolio",
+        "bnb-chain",
+        "layer-1",
+        "sec-security-token",
+        "alleged-sec-securities",
+        "celsius-bankruptcy-estate"
+      ],
+      "circulating_supply": 145931979.0324417
+    },
+    {
+      "id": 5426,
+      "name": "SOL",
+      "symbol": "sol",
+      "quote": {
+        "USD": {
+          "price": 148.00001707946703,
+          "volume_24h": 1139884228.1883283,
+          "market_cap": 69506529870.51894
+        }
+      },
+      "tags": [
+        "pos",
+        "platform",
+        "solana-ecosystem",
+        "cms-holdings-portfolio",
+        "kenetic-capital-portfolio",
+        "alameda-research-portfolio",
+        "multicoin-capital-portfolio",
+        "okx-ventures-portfolio",
+        "layer-1",
+        "ftx-bankruptcy-estate",
+        "sec-security-token",
+        "alleged-sec-securities",
+        "cmc-crypto-awards-2024"
+      ],
+      "circulating_supply": 469638661.1441953
+    },
+    {
+      "id": 3408,
+      "name": "USDC",
+      "symbol": "usdc",
+      "quote": {
+        "USD": {
+          "price": 0.9997721369952519,
+          "volume_24h": 2543288002.1117563,
+          "market_cap": 35025191026.698364
+        }
+      },
+      "tags": [
+        "medium-of-exchange",
+        "stablecoin",
+        "asset-backed-stablecoin",
+        "coinbase-ventures-portfolio",
+        "solana-ecosystem",
+        "hedera-hashgraph-ecosystem",
+        "arbitrum-ecosytem",
+        "moonriver-ecosystem",
+        "bnb-chain",
+        "usd-stablecoin",
+        "optimism-ecosystem",
+        "base-ecosystem",
+        "fiat-stablecoin"
+      ],
+      "circulating_supply": 35033173790.94423
+    },
+    {
+      "id": 52,
+      "name": "XRP",
+      "symbol": "xrp",
+      "quote": {
+        "USD": {
+          "price": 0.5337170791330313,
+          "volume_24h": 567467491.1175591,
+          "market_cap": 30232435009.290848
+        }
+      },
+      "tags": [
+        "medium-of-exchange",
+        "enterprise-solutions",
+        "arrington-xrp-capital-portfolio",
+        "galaxy-digital-portfolio",
+        "a16z-portfolio",
+        "pantera-capital-portfolio",
+        "ftx-bankruptcy-estate"
+      ],
+      "circulating_supply": 56645058199
+    },
+    {
+      "id": 74,
+      "name": "DOGE",
+      "symbol": "doge",
+      "quote": {
+        "USD": {
+          "price": 0.11161415286709793,
+          "volume_24h": 513386810.15796024,
+          "market_cap": 16334494246.46603
+        }
+      },
+      "tags": [
+        "mineable",
+        "pow",
+        "scrypt",
+        "medium-of-exchange",
+        "memes",
+        "payments",
+        "doggone-doggerel",
+        "bnb-chain",
+        "ftx-bankruptcy-estate"
+      ],
+      "circulating_supply": 146347876383.70526
+    },
+    {
+      "id": 1958,
+      "name": "TRX",
+      "symbol": "trx",
+      "quote": {
+        "USD": {
+          "price": 0.16289242265680848,
+          "volume_24h": 243264344.18197545,
+          "market_cap": 14098716585.577751
+        }
+      },
+      "tags": [
+        "media",
+        "payments",
+        "tron-ecosystem",
+        "layer-1",
+        "dwf-labs-portfolio",
+        "sec-security-token",
+        "alleged-sec-securities"
+      ],
+      "circulating_supply": 86552316894.94711
+    },
+    {
+      "id": 2010,
+      "name": "ADA",
+      "symbol": "ada",
+      "quote": {
+        "USD": {
+          "price": 0.3566116499285868,
+          "volume_24h": 166089675.2059779,
+          "market_cap": 12469707605.106268
+        }
+      },
+      "tags": [
+        "dpos",
+        "pos",
+        "platform",
+        "research",
+        "smart-contracts",
+        "staking",
+        "cardano-ecosystem",
+        "cardano",
+        "layer-1",
+        "sec-security-token",
+        "alleged-sec-securities"
+      ],
+      "circulating_supply": 34967190801.543884
+    },
+    {
+      "id": 5805,
+      "name": "AVAX",
+      "symbol": "avax",
+      "quote": {
+        "USD": {
+          "price": 29.261438982867606,
+          "volume_24h": 327236464.7773074,
+          "market_cap": 11897617852.258505
+        }
+      },
+      "tags": [
+        "defi",
+        "smart-contracts",
+        "three-arrows-capital-portfolio",
+        "polychain-capital-portfolio",
+        "avalanche-ecosystem",
+        "cms-holdings-portfolio",
+        "dragonfly-capital-portfolio",
+        "real-world-assets",
+        "layer-1"
+      ],
+      "circulating_supply": 406597155.3628818
+    },
+    {
+      "id": 5994,
+      "name": "SHIB",
+      "symbol": "shib",
+      "quote": {
+        "USD": {
+          "price": 0.0000177463969726657,
+          "volume_24h": 244445812.22924662,
+          "market_cap": 10457373656.173656
+        }
+      },
+      "tags": [
+        "memes",
+        "ethereum-ecosystem",
+        "doggone-doggerel"
+      ],
+      "circulating_supply": 589267425510703.4
+    },
+    {
+      "id": 6636,
+      "name": "DOT",
+      "symbol": "dot",
+      "quote": {
+        "USD": {
+          "price": 4.189732095384509,
+          "volume_24h": 105091504.36359185,
+          "market_cap": 6305055319.928008
+        }
+      },
+      "tags": [
+        "substrate",
+        "polkadot",
+        "polkadot-ecosystem",
+        "three-arrows-capital-portfolio",
+        "polychain-capital-portfolio",
+        "arrington-xrp-capital-portfolio",
+        "blockchain-capital-portfolio",
+        "boostvc-portfolio",
+        "cms-holdings-portfolio",
+        "coinfund-portfolio",
+        "fabric-ventures-portfolio",
+        "fenbushi-capital-portfolio",
+        "hashkey-capital-portfolio",
+        "kenetic-capital-portfolio",
+        "1confirmation-portfolio",
+        "placeholder-ventures-portfolio",
+        "pantera-capital-portfolio",
+        "exnetwork-capital-portfolio",
+        "web3",
+        "spartan-group",
+        "layer-1"
+      ],
+      "circulating_supply": 1504882693.3048487
+    },
+    {
+      "id": 4943,
+      "name": "DAI",
+      "symbol": "dai",
+      "quote": {
+        "USD": {
+          "price": 0.9997878630994764,
+          "volume_24h": 59671258.75576605,
+          "market_cap": 5364244507.008206
+        }
+      },
+      "tags": [
+        "defi",
+        "stablecoin",
+        "asset-backed-stablecoin",
+        "ethereum-ecosystem",
+        "avalanche-ecosystem",
+        "polygon-ecosystem",
+        "fantom-ecosystem",
+        "arbitrum-ecosytem",
+        "harmony-ecosystem",
+        "moonriver-ecosystem",
+        "bnb-chain",
+        "usd-stablecoin",
+        "optimism-ecosystem"
+      ],
+      "circulating_supply": 5365382702.664872
+    },
+    {
+      "id": 7083,
+      "name": "UNI",
+      "symbol": "uni",
+      "quote": {
+        "USD": {
+          "price": 7.9608185529634365,
+          "volume_24h": 207436805.19426125,
+          "market_cap": 4778837532.973
+        }
+      },
+      "tags": [
+        "decentralized-exchange-dex-token",
+        "defi",
+        "dao",
+        "yield-farming",
+        "amm",
+        "coinbase-ventures-portfolio",
+        "three-arrows-capital-portfolio",
+        "governance",
+        "blockchain-capital-portfolio",
+        "defiance-capital-portfolio",
+        "alameda-research-portfolio",
+        "a16z-portfolio",
+        "pantera-capital-portfolio",
+        "parafi-capital",
+        "paradigm-portfolio",
+        "arbitrum-ecosytem",
+        "injective-ecosystem",
+        "optimism-ecosystem",
+        "cmc-crypto-awards-2024"
+      ],
+      "circulating_supply": 600294743.71
+    },
+    {
+      "id": 3890,
+      "name": "MATIC",
+      "symbol": "matic",
+      "quote": {
+        "USD": {
+          "price": 0.3712087726079569,
+          "volume_24h": 34029505.9541778,
+          "market_cap": 995488779.3349128
+        }
+      },
+      "tags": [
+        "pos",
+        "platform",
+        "enterprise-solutions",
+        "zero-knowledge-proofs",
+        "scaling",
+        "state-channel",
+        "coinbase-ventures-portfolio",
+        "layer-2",
+        "binance-launchpad",
+        "binance-labs-portfolio",
+        "polygon-ecosystem",
+        "moonriver-ecosystem",
+        "injective-ecosystem",
+        "ftx-bankruptcy-estate",
+        "sec-security-token",
+        "alleged-sec-securities",
+        "modular-blockchain",
+        "standard-crypto-portfolio"
+      ],
+      "circulating_supply": 2681749066.276173
+    }
+  ],
+  "timestamp": "2024-10-13T10:39:28.427Z"
+}
